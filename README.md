@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Lan</h1>
-<h3 align="center">A rookie software developer</h3>
+<h1 align="center">Hey, I'm Lan! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="36" height="36"></img></h1>
+<h3 align="center">A very pasionate rookie software developer</h3>
 
+I'm on an exciting journey into the world of programming 🌐, driven by a strong passion for solving problems and bringing innovative solutions to life. As a newcomer, I'm eager to explore various aspects of software development, with a special interest in problem-solving through code 💻. My fascination doesn't stop there – I have a growing appreciation and understanding of DevOps practices 🛠️ and a love for automation 🤖, believing that efficient workflows are key to successful projects.
+
+If you're interested in collaborating or discussing programming, and how to seamlessly integrate development with operations for better efficiency 🔄, feel free to reach out. Let's connect and create something amazing together! ✨
+***
 <img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBuengxMTh2Zjk2aTJiNmp1djB2ODZwcTE5enRyNnRodDcwZXFtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8dPbkqUb2p5XTvIXLx/giphy.gif">
 
 
 
-- 🔭 I’m currently working on **Brainy Bay**
+- 🔭 I’m currently working on 
+
+- 🤝 My long-term project is **Brainy Bay**
 
 - 🌱 I’m currently learning **React, Python, JavaScript, Linux**
 
