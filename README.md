@@ -5,7 +5,7 @@ I'm on an exciting journey into the world of programming 🌐, driven by a stron
 
 If you're interested in collaborating or discussing programming, feel free to reach out. Let's connect and create something amazing together! ✨
 ***
-<img align="right" alt="coding" width="300" src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBuengxMTh2Zjk2aTJiNmp1djB2ODZwcTE5enRyNnRodDcwZXFtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8dPbkqUb2p5XTvIXLx/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanpmajc3bHg5MmpueWpueHF1ZWVhZWJ1MGVrOXk2aGoxNzkxZzBzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif)">
+<img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBuengxMTh2Zjk2aTJiNmp1djB2ODZwcTE5enRyNnRodDcwZXFtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8dPbkqUb2p5XTvIXLx/giphy.gif">
 
 
 
