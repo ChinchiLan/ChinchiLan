@@ -9,7 +9,7 @@ If you're interested in collaborating or discussing programming, and how to seam
 
 
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on practice projects to improve my coding skills
 
 - 🤝 My long-term project is **Brainy Bay**
 
