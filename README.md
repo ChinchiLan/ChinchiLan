@@ -1,9 +1,7 @@
 <h1 align="center">Hey there, I'm Lan! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="36" height="36"></img></h1>
 <h3 align="center">A very pasionate rookie software developer</h3>
 
-I'm deep into programming 🖥️, driven by my passion for solving problems and creating cool stuff.  Lately, I've been exploring DevOps 🛠️ and really getting into automation 🤖. 
-
-If you're interested in collaborating or discussing programming, feel free to reach out. Lets's talk tech, share experiences and create something amazing together! ✨
+I'm deep into programming 🖥️, driven by my passion for solving problems and creating cool stuff.  Lately, I've been exploring DevOps 🛠️ and really getting into automation 🤖. If you're interested in collaborating or discussing programming, feel free to reach out. Lets's talk tech, share experiences and create something amazing together! ✨
 ***
 <img align="right" alt="coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanpmajc3bHg5MmpueWpueHF1ZWVhZWJ1MGVrOXk2aGoxNzkxZzBzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif">
 
