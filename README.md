@@ -3,7 +3,7 @@
 
 I'm on an exciting journey into the world of programming 🌐, driven by a strong passion for solving problems and bringing innovative solutions to life. As a newcomer, I'm eager to explore various aspects of software development, with a special interest in problem-solving through code 💻. My fascination doesn't stop there – I have a growing appreciation and understanding of DevOps practices 🛠️ and a love for automation 🤖, believing that efficient workflows are key to successful projects.
 
-If you're interested in collaborating or discussing programming, and how to seamlessly integrate development with operations for better efficiency 🔄, feel free to reach out. Let's connect and create something amazing together! ✨
+If you're interested in collaborating or discussing programming, feel free to reach out. Let's connect and create something amazing together! ✨
 ***
 <img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBuengxMTh2Zjk2aTJiNmp1djB2ODZwcTE5enRyNnRodDcwZXFtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8dPbkqUb2p5XTvIXLx/giphy.gif">
 
