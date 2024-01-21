@@ -15,7 +15,13 @@ If you're interested in collaborating or discussing programming, and how to seam
 
 - 🌱 I’m currently learning **React, Python, JavaScript, Linux**
 
+- 💬 Ask me about **DevOps, Java, Spring**
+
+- 💬 Ask me about **Social Media Marketing, PPC**
+  
 - 📫 How to reach me **chiland04n@gmail.com**
+  
+- ⚡ Fun fact: I might not look like it, but I'm a nerd at heart! 🤓
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
