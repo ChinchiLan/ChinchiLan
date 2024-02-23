@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Lan! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="36" height="36"></img></h1>
-<h3 align="center">A very pasionate software developer</h3>
+<h3 align="center">A very passionate software developer</h3>
 
 I'm on an exciting journey into the world of programming 🌐, driven by my passion for solving problems and creating cool stuff 🚀. Lately, I've been exploring DevOps 🛠️ and really getting into automation 🤖. If you're interested in collaborating or discussing programming, feel free to reach out. Lets's talk tech, share experiences and create something amazing together! ✨
 ***
